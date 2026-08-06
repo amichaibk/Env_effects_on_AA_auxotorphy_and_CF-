@@ -76,8 +76,6 @@ The primary analysis includes **40 nutrient environments**, generated from ten s
 └── images/
 ```
 
-The spellings `AA Requirments Experiments` and `AA_requirments_dataset.csv` match the current repository paths and are therefore retained.
-
 ## Quick start
 
 1. Download or clone the repository.
